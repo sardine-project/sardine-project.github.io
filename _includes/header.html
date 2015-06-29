@@ -2,11 +2,11 @@
 
   <div class="wrapper">
 
-    <div class="site-logo">
-      <a class="site-title" href="{{ site.baseurl }}/"><img src="{{ "/assets/images/sardine-logo.svg" | prepend: site.baseurl }}" height="100"></a>
-      <a class="site-title" href="{{ site.baseurl }}/">{{ site.title }}</a>
+    <div class="site-title" style="float:left">
+      <a href="{{ site.baseurl }}/" style="float: left"><img src="{{ "/assets/images/sardine-logo.svg" | prepend: site.baseurl }}" height="100"></a>
+      <a href="{{ site.baseurl }}/">{{ site.title }}</a>
       <br>
-      {{ site.description }}
+      <small class="site-claim">{{ site.description }}</small>
     </div>
 
     <nav class="site-nav">

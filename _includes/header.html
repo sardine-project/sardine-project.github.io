@@ -2,7 +2,12 @@
 
   <div class="wrapper">
 
-    <a class="site-title" href="{{ site.baseurl }}/">{{ site.title }}</a>
+    <div class="site-logo">
+      <a class="site-title" href="{{ site.baseurl }}/"><img src="{{ "/assets/images/sardine-logo.svg" | prepend: site.baseurl }}" height="100"></a>
+      <a class="site-title" href="{{ site.baseurl }}/">{{ site.title }}</a>
+      <br>
+      {{ site.description }}
+    </div>
 
     <nav class="site-nav">
       <a href="#" class="menu-icon">
@@ -21,6 +26,9 @@
         {% endfor %}
       </div>
     </nav>
+
+    <div style="clear:both"></div>
+
 
   </div>
 

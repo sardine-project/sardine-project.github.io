@@ -4,7 +4,7 @@ email: info@sardine-project.org
 description: > # this means to ignore newlines until "baseurl:"
   Netzsicherheit in Unternehmen und Behörden basierend auf Software Defined Networking
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://sardine-project.ez" # the base hostname & protocol for your site
+url: "http://sardine-project.github.io" # the base hostname & protocol for your site
 twitter_username:
 github_username:  sardine-project
 

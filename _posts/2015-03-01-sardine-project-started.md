@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Projekt 'SarDiNe' gestarted!"
+title:  "Projekt »SarDiNe« gestartet!"
 date:   2015-03-01 00:00:00
 categories: project
 ---

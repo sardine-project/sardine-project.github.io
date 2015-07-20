@@ -4,8 +4,11 @@ layout: default
 
 <div class="home">
 
-  <img src="{{ "/assets/images/sardine-eyecatcher.jpg" | prepend: site.baseurl }}">
+  <figure>
+    <img src="{{ "/assets/images/sardine-eyecatcher.jpg" | prepend: site.baseurl }}">
+  </figure>
 
+  <h1>Meldungen</h1>
   <ul class="post-list">
     {% for post in site.posts %}
       <li>
@@ -18,6 +21,6 @@ layout: default
     {% endfor %}
   </ul>
 
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+  <p class="rss-subscribe">Meldungen <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS abonnieren</a></p>
 
 </div>

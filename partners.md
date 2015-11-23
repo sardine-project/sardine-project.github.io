@@ -7,7 +7,7 @@ permalink: /partners/
 <ul class="partners">
     <li>
         <a href="http://genua.de"><img src="/assets/images/logo-genua.jpg" alt="Logo genua" /></a>
-        Genua GmbH, Kirchheim bei München<br>
+        genua GmbH, Kirchheim bei München<br>
         <a href="http://genua.de">genua.de</a>
     </li>
 
@@ -26,9 +26,20 @@ permalink: /partners/
     </li>
 
     <li>
-        <a href="http://www.infosim.net"><img src="/assets/images/logo-infosim.png" alt="Logo infosim" /></a>
-        infosim GmbH, Würzburg<br>
+        <a href="http://www.Infosim.net"><img src="/assets/images/logo-infosim.png" alt="Logo infosim" /></a>
+        Infosim GmbH, Würzburg<br>
         <a href="http://www.infosim.net">infosim.net</a>
     </li>
 
+    <li>
+        <a href="http://bsi.bund.de"><img src="/assets/images/logo-bsi.png" alt="Logo BSI" /></a>
+        BSI - Bundesamt für Sicherheits in der Informationstechnik, Bonn (assoziiert)<br>
+        <a href="http://www.bsi.bund.de">www.bsi.bund.de</a>
+    </li>
+
+    <li>
+        <a href="http://zivit.de"><img src="/assets/images/logo-zivit.gif" alt="Logo ZIVIT" /></a>
+        ZIVIT - Zentrum für Informationsverarbeitung und Informationstechnik, Bonn (assoziiert)<br>
+        <a href="http://www.zivit.de">www.zivit.de</a>
+    </li>
 </ul>

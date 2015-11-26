@@ -8,7 +8,7 @@ permalink: /partners/
     <li>
         <a href="http://genua.de"><img src="/assets/images/logo-genua.jpg" alt="Logo genua" /></a>
         genua GmbH, Kirchheim bei München<br>
-        <a href="http://genua.de">genua.de</a>
+        <a href="https://www.genua.de">www.genua.de</a>
     </li>
 
     <li>
@@ -27,8 +27,8 @@ permalink: /partners/
 
     <li>
         <a href="http://www.Infosim.net"><img src="/assets/images/logo-infosim.png" alt="Logo infosim" /></a>
-        Infosim GmbH, Würzburg<br>
-        <a href="http://www.infosim.net">infosim.net</a>
+        Infosim GmbH & Co. KG, Würzburg<br>
+        <a href="http://www.infosim.net">www.infosim.net</a>
     </li>
 
     <li>

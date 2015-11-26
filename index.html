@@ -4,7 +4,7 @@ layout: default
 
 <div class="home">
 
-  <figure>
+  <figure class="eyecatcher-pic-pos">
     <img src="{{ "/assets/images/sardine-eyecatcher.jpg" | prepend: site.baseurl }}">
   </figure>
 
@@ -12,11 +12,12 @@ layout: default
   <ul class="post-list">
     {% for post in site.posts %}
       <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-
         <h2>
           <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
         </h2>
+        <p class="post-meta">
+          {{ post.date | date: "%b %-d, %Y" }}
+        </p>
       </li>
     {% endfor %}
   </ul>

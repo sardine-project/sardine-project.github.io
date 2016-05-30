@@ -4,6 +4,11 @@ title: Veröffentlichungen
 permalink: /publications/
 ---
 
+S-BYOD: Demo-Paper zu SDN-basiertem »Bring Your Own Device« (BYOD) auf der ITC 28 <a href="/project/2016/05/30/sbyod-demo-itc.html">akzeptiert</a>.
+
+
+<p class="post-meta">30.05.2016</p><br>
+
 Vortrag beim 8. ITG FG 5.2.2 Workshop <a href="http://kn.inf.uni-tuebingen.de/ITG-NHNS-2015">"Neue Herausforderungen in der Netzsicherheit" (ITG-NHNS)</a> zum Thema "Stateful Firewalls mit SDN und NFV".
 
 <p class="post-meta">24.09.2015</p><br>

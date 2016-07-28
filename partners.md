@@ -38,8 +38,8 @@ permalink: /partners/
     </li>
 
     <li>
-        <a href="http://zivit.de"><img src="/assets/images/logo-zivit.gif" alt="Logo ZIVIT" /></a>
-        ZIVIT - Zentrum für Informationsverarbeitung und Informationstechnik, Bonn (assoziiert)<br>
-        <a href="http://www.zivit.de">www.zivit.de</a>
+        <a href="https://www.itzbund.de"><img src="/assets/images/logo-itzbund.png" alt="Logo ITZBund" /></a>
+        ITZBund - Informationstechnikzentrum Bund, Bonn (assoziiert)<br>
+        <a href="https://www.itzbund.de">www.itzbund.de</a>
     </li>
 </ul>

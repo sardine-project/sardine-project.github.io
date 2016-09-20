@@ -4,6 +4,10 @@ title: Veröffentlichungen
 permalink: /publications/
 ---
 
+Processing Time Comparison of a Hardware-Based Firewall and its Virtualized Counterpart. <a href="http://mon-ami.org/2016/show/accepted-papers">8th EAI International Conference on Mobile Networks and Management (MONAMI 2016)</a>, Abu Dhabi, United Arab Emirates (2016)</a>.
+
+<p class="post-meta">20.09.2016</p><br>
+
 S-BYOD: Demo-Paper zu SDN-basiertem »Bring Your Own Device« (BYOD) auf der ITC 28 <a href="/project/2016/05/30/sbyod-demo-itc.html">akzeptiert</a>.
 
 

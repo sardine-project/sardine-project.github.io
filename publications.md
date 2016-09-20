@@ -8,6 +8,10 @@ Processing Time Comparison of a Hardware-Based Firewall and its Virtualized Coun
 
 <p class="post-meta">20.09.2016</p><br>
 
+ZOOM: Lightweight SDN-based Elephant Detection. <a href="http://procon-workshop.com/">First International Workshop on Programmability for Cloud Networks and Applications (PROCON)</a>, Würzburg, Germany.
+
+<p class="post-meta">12.09.2016</p><br>
+
 S-BYOD: Demo-Paper zu SDN-basiertem »Bring Your Own Device« (BYOD) auf der ITC 28 <a href="/project/2016/05/30/sbyod-demo-itc.html">akzeptiert</a>.
 
 

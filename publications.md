@@ -4,7 +4,7 @@ title: Veröffentlichungen
 permalink: /publications/
 ---
 
-Processing Time Comparison of a Hardware-Based Firewall and its Virtualized Counterpart. <a href="http://mon-ami.org/2016/show/accepted-papers">8th EAI International Conference on Mobile Networks and Management (MONAMI 2016)</a>, Abu Dhabi, United Arab Emirates (2016)</a>.
+Processing Time Comparison of a Hardware-Based Firewall and its Virtualized Counterpart. <a href="http://mon-ami.org/2016/show/accepted-papers">8th EAI International Conference on Mobile Networks and Management (MONAMI 2016)</a>, Abu Dhabi, United Arab Emirates.
 
 <p class="post-meta">20.09.2016</p><br>
 

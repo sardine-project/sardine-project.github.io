@@ -12,6 +12,10 @@ ZOOM: Lightweight SDN-based Elephant Detection. <a href="http://procon-workshop.
 
 <p class="post-meta">12.09.2016</p><br>
 
+Teilnahme am Dagstuhl Seminar <a href="http://www.dagstuhl.de/de/programm/kalender/semhp/?semnr=16361">"Network Attack Detection and Defense - Security Challenges and Opportunities of Software-Defined Networking"</a>
+
+<p class="post-meta">04-09.09.2016</p><br>
+
 Vortrag bei der KuVS Summer School <a href="https://cs.uni-paderborn.de/cn/events/kuvs2016/">"Software-Defined Networking and Network Function Virtualization"</a> zum Thema SDN-Security.
 
 <p class="post-meta">21.06.2016</p><br>

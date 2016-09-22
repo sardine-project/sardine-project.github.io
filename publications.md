@@ -14,8 +14,11 @@ ZOOM: Lightweight SDN-based Elephant Detection. <a href="http://procon-workshop.
 
 S-BYOD: Demo-Paper zu SDN-basiertem »Bring Your Own Device« (BYOD) auf der ITC 28 <a href="/project/2016/05/30/sbyod-demo-itc.html">akzeptiert</a>.
 
-
 <p class="post-meta">30.05.2016</p><br>
+
+Vortrag bei der KuVS Summer School <a href="https://cs.uni-paderborn.de/cn/events/kuvs2016/">"Software-Defined Networking and Network Function Virtualization"</a> zum Thema SDN-Security.
+
+<p class="post-meta">21.06.2016</p><br>
 
 Vortrag beim 8. ITG FG 5.2.2 Workshop <a href="http://kn.inf.uni-tuebingen.de/ITG-NHNS-2015">"Neue Herausforderungen in der Netzsicherheit" (ITG-NHNS)</a> zum Thema "Stateful Firewalls mit SDN und NFV".
 

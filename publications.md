@@ -14,6 +14,10 @@ A Priori State Synchronization for Fast Failover of Stateful Firewall VNFs. <a h
 
 <p class="post-meta">30.11.2016</p><br>
 
+Poster bei der Fachtagung KMU-innovativ: IKT Mittelstand: Digital. Innovativ. Vernetzt. <a href="http://www.softwaresysteme.pt-dlr.de/de/fachtagung-2016.php">KMU-innovativ 2016</a>, Hannover, Deutschland.
+
+<p class="post-meta">01.10.2016</p><br>
+
 Processing Time Comparison of a Hardware-Based Firewall and its Virtualized Counterpart. <a href="http://mon-ami.org/2016/show/accepted-papers">8th EAI International Conference on Mobile Networks and Management (MONAMI 2016)</a>, Abu Dhabi, United Arab Emirates.
 
 <p class="post-meta">20.09.2016</p><br>

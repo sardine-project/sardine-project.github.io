@@ -4,6 +4,12 @@ title: Veröffentlichungen
 permalink: /publications/
 ---
 
+
+
+Modeling IPv6 Firewalls for Fast Formal Verification. <a href="http://netsys17.uni-goettingen.de/">International Conference on Networked Systems 2017</a> Göttingen, Deutschland
+
+<p class="post-meta">04.04.2017</p><br>
+
 A Priori State Synchronization for Fast Failover of Stateful Firewall VNFs. <a href="http://sdnflex.org/">SDNFlex-Workshop 2017</a>, Göttingen, Deutschland.
 
 <p class="post-meta">30.11.2016</p><br>
@@ -27,6 +33,14 @@ Vortrag bei der KuVS Summer School <a href="https://cs.uni-paderborn.de/cn/event
 S-BYOD: Demo-Paper zu SDN-basiertem »Bring Your Own Device« (BYOD) auf der ITC 28 <a href="/project/2016/05/30/sbyod-demo-itc.html">akzeptiert</a>.
 
 <p class="post-meta">30.05.2016</p><br>
+
+The cost of Security in the SDN control Plane,<a href="http://conferences2.sigcomm.org/co-next/2015/#!/home"> ACM CoNEXT 2015 - Student Workshop</a>, Heidelberg, Germany.
+
+<p class="post-meta">10.12.2015</p><br>
+
+Performance Study of Dynamic QoS Management for OpenFlow-enabled SDN Switches,<a href="http://iwqos2015.ieee-iwqos.org/"> IEEE/ACM International Symposium on Quality of Service (IWQoS 2015)</a>, Portland, USA.
+
+<p class="post-meta">20.05.2015</p><br>
 
 Vortrag beim 8. ITG FG 5.2.2 Workshop <a href="http://kn.inf.uni-tuebingen.de/ITG-NHNS-2015">"Neue Herausforderungen in der Netzsicherheit" (ITG-NHNS)</a> zum Thema "Stateful Firewalls mit SDN und NFV".
 

@@ -4,11 +4,13 @@ title: Veröffentlichungen
 permalink: /publications/
 ---
 
-
-
 Modeling IPv6 Firewalls for Fast Formal Verification. <a href="http://netsys17.uni-goettingen.de/">International Conference on Networked Systems 2017</a> Göttingen, Deutschland
 
 <p class="post-meta">04.02.2017</p><br>
+
+Artikel im  IEEE Communications Magazine:  <a href=http://ieeexplore.ieee.org/document/7828267/>"An SDN/NFV-Enabled Enterprise Network Architecture Offering Fine-Grained Security Policy Enforcement"</a>
+
+<p class="post-meta">20.01.2017</p><br>
 
 A Priori State Synchronization for Fast Failover of Stateful Firewall VNFs. <a href="http://sdnflex.org/">SDNFlex-Workshop 2017</a>, Göttingen, Deutschland.
 

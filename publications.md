@@ -14,7 +14,7 @@ Modeling IPv6 Firewalls for Fast Formal Verification. <a href="http://netsys17.u
 
 <p class="post-meta">04.02.2017</p><br>
 
-Artikel im  IEEE Communications Magazine:  <a href=http://ieeexplore.ieee.org/document/7828267/>An SDN/NFV-Enabled Enterprise Network Architecture Offering Fine-Grained Security Policy Enforcement</a>
+Artikel im  IEEE Communications Magazine:  <a href="http://ieeexplore.ieee.org/document/7828267/">An SDN/NFV-Enabled Enterprise Network Architecture Offering Fine-Grained Security Policy Enforcement</a>
 
 <p class="post-meta">20.01.2017</p><br>
 

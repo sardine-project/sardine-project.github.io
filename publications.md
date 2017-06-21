@@ -3,12 +3,18 @@ layout: page
 title: Veröffentlichungen
 permalink: /publications/
 ---
+How fast can you reconfigure your partially deployed SDN network? <a href="http://networking.ifip.org/2017/">IFIP Networking
+<p class="post-meta">21.06.2017</p><br>
+
+Detecting and Mitigating Denial of Service Attacks against the Data Plane in Software Defined Networks. <a href="http://http://sns2017.eu/">IEEE Netsoft 2017 - SNS</a> , Bologna, Italien
+
+<p class="post-meta">21.06.2017</p><br>
 
 Modeling IPv6 Firewalls for Fast Formal Verification. <a href="http://netsys17.uni-goettingen.de/">International Conference on Networked Systems 2017</a> Göttingen, Deutschland
 
 <p class="post-meta">04.02.2017</p><br>
 
-Artikel im  IEEE Communications Magazine:  <a href=http://ieeexplore.ieee.org/document/7828267/>"An SDN/NFV-Enabled Enterprise Network Architecture Offering Fine-Grained Security Policy Enforcement"</a>
+Artikel im  IEEE Communications Magazine:  <a href=http://ieeexplore.ieee.org/document/7828267/>An SDN/NFV-Enabled Enterprise Network Architecture Offering Fine-Grained Security Policy Enforcement</a>
 
 <p class="post-meta">20.01.2017</p><br>
 

@@ -3,7 +3,15 @@ layout: page
 title: Veröffentlichungen
 permalink: /publications/
 ---
-How fast can you reconfigure your partially deployed SDN network? <a href="http://networking.ifip.org/2017/">IFIP Networking
+
+FlowFuzz - A Framework for Fuzzing OpenFlow-Enabled Software and Hardware Switches. <a href="https://www.blackhat.com/us-17/"> Black Hat USA</a>
+<p class="post-meta">22.06.2017</p><br>
+
+
+Enhancing SDN Security by Device Fingerprinting. <a href="http://im2017.ieee-im.org/"> International Symposium on Integrated Network Management</a>
+<p class="post-meta">22.06.2017</p><br>
+
+How fast can you reconfigure your partially deployed SDN network? <a href="http://networking.ifip.org/2017/">IFIP Networking</a>
 <p class="post-meta">21.06.2017</p><br>
 
 Detecting and Mitigating Denial of Service Attacks against the Data Plane in Software Defined Networks. <a href="http://http://sns2017.eu/">IEEE Netsoft 2017 - SNS</a> , Bologna, Italien

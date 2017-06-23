@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "SIGCOMM Demo: >>SDN/NFV-enabled Security Architecture for Fine-grained Policy Enforcement and Threat Mitigation for Enterprise Networks<< wurde akzeptiert".
-date:   2017-06-23 00:00:00
+title: "SIGCOMM Demo: >>SDN/NFV-enabled Security Architecture for Fine-grained Policy Enforcement and Threat Mitigation for Enterprise Networks<< wurde akzeptiert".
+date: 2017-06-23 00:00:00
 categories: project
 ---
 

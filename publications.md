@@ -4,9 +4,15 @@ title: Veröffentlichungen
 permalink: /publications/
 ---
 
-FlowFuzz - A Framework for Fuzzing OpenFlow-Enabled Software and Hardware Switches. <a href="https://www.blackhat.com/us-17/"> Black Hat USA</a>
-<p class="post-meta">22.06.2017</p><br>
 
+<h1>Journals</h1>
+
+Artikel im  IEEE Communications Magazine:  <a href="http://ieeexplore.ieee.org/document/7828267/">An SDN/NFV-Enabled Enterprise Network Architecture Offering Fine-Grained Security Policy Enforcement</a>
+
+<p class="post-meta">20.01.2017</p><br>
+
+
+<h1>Conferences</h1>
 
 Enhancing SDN Security by Device Fingerprinting. <a href="http://im2017.ieee-im.org/"> International Symposium on Integrated Network Management</a>
 <p class="post-meta">22.06.2017</p><br>
@@ -22,17 +28,9 @@ Modeling IPv6 Firewalls for Fast Formal Verification. <a href="http://netsys17.u
 
 <p class="post-meta">04.02.2017</p><br>
 
-Artikel im  IEEE Communications Magazine:  <a href="http://ieeexplore.ieee.org/document/7828267/">An SDN/NFV-Enabled Enterprise Network Architecture Offering Fine-Grained Security Policy Enforcement</a>
-
-<p class="post-meta">20.01.2017</p><br>
-
 A Priori State Synchronization for Fast Failover of Stateful Firewall VNFs. <a href="http://sdnflex.org/">SDNFlex-Workshop 2017</a>, Göttingen, Deutschland.
 
 <p class="post-meta">30.11.2016</p><br>
-
-Poster bei der Fachtagung KMU-innovativ: IKT Mittelstand: Digital. Innovativ. Vernetzt. <a href="http://www.softwaresysteme.pt-dlr.de/de/fachtagung-2016.php">KMU-innovativ 2016</a>, Hannover, Deutschland.
-
-<p class="post-meta">01.10.2016</p><br>
 
 Processing Time Comparison of a Hardware-Based Firewall and its Virtualized Counterpart. <a href="http://mon-ami.org/2016/show/accepted-papers">8th EAI International Conference on Mobile Networks and Management (MONAMI 2016)</a>, Abu Dhabi, United Arab Emirates.
 
@@ -41,14 +39,6 @@ Processing Time Comparison of a Hardware-Based Firewall and its Virtualized Coun
 ZOOM: Lightweight SDN-based Elephant Detection. <a href="http://procon-workshop.com/">First International Workshop on Programmability for Cloud Networks and Applications (PROCON)</a>, Würzburg, Germany.
 
 <p class="post-meta">12.09.2016</p><br>
-
-Teilnahme am Dagstuhl Seminar <a href="http://www.dagstuhl.de/de/programm/kalender/semhp/?semnr=16361">"Network Attack Detection and Defense - Security Challenges and Opportunities of Software-Defined Networking"</a>
-
-<p class="post-meta">04-09.09.2016</p><br>
-
-Vortrag bei der KuVS Summer School <a href="https://cs.uni-paderborn.de/cn/events/kuvs2016/">"Software-Defined Networking and Network Function Virtualization"</a> zum Thema SDN-Security.
-
-<p class="post-meta">21.06.2016</p><br>
 
 S-BYOD: Demo-Paper zu SDN-basiertem »Bring Your Own Device« (BYOD) auf der ITC 28 <a href="/project/2016/05/30/sbyod-demo-itc.html">akzeptiert</a>.
 
@@ -61,6 +51,24 @@ The cost of Security in the SDN control Plane,<a href="http://conferences2.sigco
 Performance Study of Dynamic QoS Management for OpenFlow-enabled SDN Switches,<a href="http://iwqos2015.ieee-iwqos.org/"> IEEE/ACM International Symposium on Quality of Service (IWQoS 2015)</a>, Portland, USA.
 
 <p class="post-meta">20.05.2015</p><br>
+
+
+<h1>Miscellaneous</h1>
+
+FlowFuzz - A Framework for Fuzzing OpenFlow-Enabled Software and Hardware Switches. <a href="https://www.blackhat.com/us-17/"> Black Hat USA</a>
+<p class="post-meta">22.06.2017</p><br>
+
+Poster bei der Fachtagung KMU-innovativ: IKT Mittelstand: Digital. Innovativ. Vernetzt. <a href="http://www.softwaresysteme.pt-dlr.de/de/fachtagung-2016.php">KMU-innovativ 2016</a>, Hannover, Deutschland.
+
+<p class="post-meta">01.10.2016</p><br>
+
+Teilnahme am Dagstuhl Seminar <a href="http://www.dagstuhl.de/de/programm/kalender/semhp/?semnr=16361">"Network Attack Detection and Defense - Security Challenges and Opportunities of Software-Defined Networking"</a>
+
+<p class="post-meta">04-09.09.2016</p><br>
+
+Vortrag bei der KuVS Summer School <a href="https://cs.uni-paderborn.de/cn/events/kuvs2016/">"Software-Defined Networking and Network Function Virtualization"</a> zum Thema SDN-Security.
+
+<p class="post-meta">21.06.2016</p><br>
 
 Vortrag beim 8. ITG FG 5.2.2 Workshop <a href="http://kn.inf.uni-tuebingen.de/ITG-NHNS-2015">"Neue Herausforderungen in der Netzsicherheit" (ITG-NHNS)</a> zum Thema "Stateful Firewalls mit SDN und NFV".
 

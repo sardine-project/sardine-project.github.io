@@ -16,9 +16,8 @@ fax +49 89 991950-999<br>
 
 # Geschäftsführer
 
-Dr. Michaela Harlander<br>
-Dr. Magnus Harlander<br>
-Bernhard Schneck
+Matthias Ochs<br>
+Marc Tesch
 
 # Handelsregister
 Amtsgericht München<br>

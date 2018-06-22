@@ -61,6 +61,9 @@ SarDiNe-Konsortium, <em>SDN/NFV-enabled Security Architecture for Enterprise Net
 N. Gray et al., <em>FlowFuzz - A Framework for Fuzzing OpenFlow-Enabled Software and Hardware Switches.</em> <a href="https://www.blackhat.com/us-17/"> Black Hat USA</a>
 <p class="post-meta">22.06.2017</p><br>
 
+C. Lorenz et al., Beitrag <em> Erkennung und Mitigation von DoS-Angriffen gegen die Datenschicht in Software Defined Networks</em>, <a href="https://www.bsi.bund.de/DE/Service/Aktuell/Veranstaltungen/IT-Sicherheitskongress/IT-Sicherheitskongress_node.html">15. Deutscher IT-Sicherheitskongress</a> des BSI.
+<p class="post-meta">16.-18.05.2017</p><br>
+
 SarDiNe-Konsortium, Poster bei der <em>Nationalen Konferenz IT-Sicherheitsforschung: Selbstbestimmt und sicher in der digitalen Welt</em> des BMBF (<a href="https://www.forschung-it-sicherheit-kommunikationssysteme.de/it-sicherheitskonferenz">Link</a>)
 <p class="post-meta">14.-16.02.2017</p><br>
 

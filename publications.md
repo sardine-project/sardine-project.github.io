@@ -5,13 +5,13 @@ permalink: /publications/
 ---
 
 
-<h1>Journals</h1>
+<h1>Journale</h1>
 
 C. Lorenz, D. Hock, J. Scherer, R. Durner, W. Kellerer, S. Gebert, N. Gray, T. Zinner, P. Tran-Gia, Artikel im  IEEE Communications Magazine:  <a href="http://ieeexplore.ieee.org/document/7828267/"><em>An SDN/NFV-Enabled Enterprise Network Architecture Offering Fine-Grained Security Policy Enforcement</em></a>
 <p class="post-meta">20.01.2017</p><br>
 
 
-<h1>Conferences</h1>
+<h1>Konferenzen</h1>
 
 N. Gray, T. Zinner, P. Tran-Gia, <em>Enhancing SDN Security by Device Fingerprinting</em>. <a href="http://im2017.ieee-im.org/"> International Symposium on Integrated Network Management</a>
 <p class="post-meta">22.06.2017</p><br>
@@ -44,21 +44,33 @@ R. Durner, A. Blenk, W. Kellerer, <em>Performance Study of Dynamic QoS Managemen
 <p class="post-meta">20.05.2015</p><br>
 
 
-<h1>Miscellaneous</h1>
+<h1>Vermischtes</h1>
 
-C. Lorenz et al., <em>Best Practises für den sicheren Betrieb von Software-definierten Netzen</em> <a href="/assets/doc/bp-sdnsec.pdf"> PDF</a>
+C. Lorenz et al., <em>Best Practises für den sicheren Betrieb von Software-definierten Netzen</em> (<a href="/assets/docs/bp-sdnsec.pdf">PDF</a>)
 <p class="post-meta">22.06.2017</p><br>
+
+N. Gray, <em>Using SDN and NFV to Realize a Scalable and Resilient Omni-Present Firewall</em> <a href="https://www.blackhat.com/html/webcast/10192017-using-sdn-and-nfv.html">Black Hat Webcast</a>
+<p class="post-meta">19.10.2017</p><br>
+
+SarDiNe-Konsortium, <em>SDN/NFV-enabled Security Architecture for Enterprise Networks</em> <a href="https://www.infosim.net/resources/webinars/sdn-nfv-enabled-security-architecture-for-enterprise-networks-global-webinar-day-september-28th-2017/">Infosim Global Webinar</a>
+<p class="post-meta">28.09.2017</p><br>
 
 N. Gray et al., <em>FlowFuzz - A Framework for Fuzzing OpenFlow-Enabled Software and Hardware Switches.</em> <a href="https://www.blackhat.com/us-17/"> Black Hat USA</a>
 <p class="post-meta">22.06.2017</p><br>
 
-SarDiNe-Konsortium, Poster bei der Fachtagung KMU-innovativ: IKT Mittelstand: Digital. Innovativ. Vernetzt. <a href="http://www.softwaresysteme.pt-dlr.de/de/fachtagung-2016.php">KMU-innovativ 2016</a>, Hannover, Deutschland.
+SarDiNe-Konsortium, Poster bei der <em>Nationalen Konferenz IT-Sicherheitsforschung: Selbstbestimmt und sicher in der digitalen Welt</em> des BMBF (<a href="https://www.forschung-it-sicherheit-kommunikationssysteme.de/it-sicherheitskonferenz">Link</a>)
+<p class="post-meta">14.-16.02.2017</p><br>
+
+R. Durner, N. Gray, Beiträge <em>Firewall Offloading based on SDN and NFV</em> und <em>State-Synchronization for Fast Failover of Stateful Firewall VNFs</em> zum <a href="https://itg.lkn.ei.tum.de/doku.php?id=termine:2016-12-05-munich:start">ITG-FG 5.2.2 Workshop "Network and Services Security towards 5G"</a>
+<p class="post-meta">05.12.2016</p><br>
+
+SarDiNe-Konsortium, Poster bei der Fachtagung <em>KMU-innovativ: IKT Mittelstand: Digital. Innovativ. Vernetzt.</em> <a href="http://www.softwaresysteme.pt-dlr.de/de/fachtagung-2016.php">KMU-innovativ 2016</a>, Hannover, Deutschland.
 <p class="post-meta">01.10.2016</p><br>
 
 C. Lorenz, Teilnahme am Dagstuhl Seminar <a href="http://www.dagstuhl.de/de/programm/kalender/semhp/?semnr=16361">"Network Attack Detection and Defense - Security Challenges and Opportunities of Software-Defined Networking"</a>
-<p class="post-meta">04-09.09.2016</p><br>
+<p class="post-meta">04.-09.09.2016</p><br>
 
-C. Lorenz, Vortrag bei der KuVS Summer School <a href="https://cs.uni-paderborn.de/cn/events/kuvs2016/">Software-Defined Networking and Network Function Virtualization"</a> zum Thema SDN-Security.
+C. Lorenz, Vortrag bei der KuVS Summer School <a href="https://cs.uni-paderborn.de/cn/events/kuvs2016/">"Software-Defined Networking and Network Function Virtualization"</a> zum Thema SDN-Security.
 <p class="post-meta">21.06.2016</p><br>
 
 C. Lorenz, Vortrag beim 8. ITG FG 5.2.2 Workshop <a href="http://kn.inf.uni-tuebingen.de/ITG-NHNS-2015">"Neue Herausforderungen in der Netzsicherheit" (ITG-NHNS)</a> zum Thema <em>Stateful Firewalls mit SDN und NFV</em>.

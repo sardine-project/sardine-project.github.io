@@ -46,7 +46,7 @@ R. Durner, A. Blenk, W. Kellerer, <em>Performance Study of Dynamic QoS Managemen
 
 <h1>Miscellaneous</h1>
 
-C. Lorenz et al., <em>Best Practises für den sicheren Betrieb von Software-definierten Netzen</em> <a href="/assets/doc/bp-sdnsec.pdf"> PDF</a>
+C. Lorenz et al., <em>Best Practises für den sicheren Betrieb von Software-definierten Netzen</em> (<a href="/assets/docs/bp-sdnsec.pdf">PDF</a>)
 <p class="post-meta">22.06.2017</p><br>
 
 N. Gray et al., <em>FlowFuzz - A Framework for Fuzzing OpenFlow-Enabled Software and Hardware Switches.</em> <a href="https://www.blackhat.com/us-17/"> Black Hat USA</a>

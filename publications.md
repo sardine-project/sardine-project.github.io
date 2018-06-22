@@ -5,13 +5,13 @@ permalink: /publications/
 ---
 
 
-<h1>Journals</h1>
+<h1>Journale</h1>
 
 C. Lorenz, D. Hock, J. Scherer, R. Durner, W. Kellerer, S. Gebert, N. Gray, T. Zinner, P. Tran-Gia, Artikel im  IEEE Communications Magazine:  <a href="http://ieeexplore.ieee.org/document/7828267/"><em>An SDN/NFV-Enabled Enterprise Network Architecture Offering Fine-Grained Security Policy Enforcement</em></a>
 <p class="post-meta">20.01.2017</p><br>
 
 
-<h1>Conferences</h1>
+<h1>Konferenzen</h1>
 
 N. Gray, T. Zinner, P. Tran-Gia, <em>Enhancing SDN Security by Device Fingerprinting</em>. <a href="http://im2017.ieee-im.org/"> International Symposium on Integrated Network Management</a>
 <p class="post-meta">22.06.2017</p><br>
@@ -44,7 +44,7 @@ R. Durner, A. Blenk, W. Kellerer, <em>Performance Study of Dynamic QoS Managemen
 <p class="post-meta">20.05.2015</p><br>
 
 
-<h1>Miscellaneous</h1>
+<h1>Vermischtes</h1>
 
 C. Lorenz et al., <em>Best Practises für den sicheren Betrieb von Software-definierten Netzen</em> (<a href="/assets/docs/bp-sdnsec.pdf">PDF</a>)
 <p class="post-meta">22.06.2017</p><br>

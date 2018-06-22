@@ -13,10 +13,13 @@ C. Lorenz, D. Hock, J. Scherer, R. Durner, W. Kellerer, S. Gebert, N. Gray, T. Z
 
 <h1>Konferenzen</h1>
 
-N. Gray, T. Zinner, P. Tran-Gia, <em>Enhancing SDN Security by Device Fingerprinting</em>. <a href="http://im2017.ieee-im.org/"> International Symposium on Integrated Network Management</a>
+C. Sieber, R. Durner, M. Ehm, P. Sharma, W. Kellerer, <em>Towards Optimal Adaptation of NFV Packet Processing to Modern CPU Memory Architectures</em>. <a href="https://conferences2.sigcomm.org/co-next/2017/#!/canworkshop">ACM CoNext 2017 - CAN</a>, Seoul/Incheon, Südkorea, 2017.
+<p class="post-meta">12.12.2017</p><br>
+
+N. Gray, T. Zinner, P. Tran-Gia, <em>Enhancing SDN Security by Device Fingerprinting</em>. <a href="http://im2017.ieee-im.org/"> International Symposium on Integrated Network Management</a>, Lissabon, Portugal, 2017.
 <p class="post-meta">22.06.2017</p><br>
 
-C. Sieber, R. Durner, W. Kellerer, <em>How fast can you reconfigure your partially deployed SDN network?</em> <a href="http://networking.ifip.org/2017/">IFIP Networking</a>
+C. Sieber, R. Durner, W. Kellerer, <em>How fast can you reconfigure your partially deployed SDN network?</em> <a href="http://networking.ifip.org/2017/">IFIP Networking</a>, Stockholm, Schweden, 2017.
 <p class="post-meta">21.06.2017</p><br>
 
 R. Durner, M. Wiedemann, W. Kellerer, C. Lorenz, <em>Detecting and Mitigating Denial of Service Attacks against the Data Plane in Software Defined Networks</em>. <a href="http://http://sns2017.eu/">IEEE Netsoft 2017 - SNS</a> , Bologna, Italy, 2017.

@@ -13,6 +13,9 @@ C. Lorenz, D. Hock, J. Scherer, R. Durner, W. Kellerer, S. Gebert, N. Gray, T. Z
 
 <h1>Konferenzen</h1>
 
+Nicholas Gray, Stanislav Lange, Thomas Zinner, Benedikt Pfaff, David Hock, <em>Evaluation of a Distributed Control Plane for Managing Heterogeneous SDN-enabled and Legacy Networks</em>. <a href="http://www.icce-2018.org/">IEEE ICCE</a>, Hue, Vietnam, 2018.
+<p class="post-meta">18.-20.07.2018</p><br>
+
 C. Sieber, R. Durner, M. Ehm, P. Sharma, W. Kellerer, <em>Towards Optimal Adaptation of NFV Packet Processing to Modern CPU Memory Architectures</em>. <a href="https://conferences2.sigcomm.org/co-next/2017/#!/canworkshop">ACM CoNext 2017 - CAN</a>, Seoul/Incheon, Südkorea, 2017.
 <p class="post-meta">12.12.2017</p><br>
 
@@ -49,7 +52,7 @@ R. Durner, A. Blenk, W. Kellerer, <em>Performance Study of Dynamic QoS Managemen
 
 <h1>Vermischtes</h1>
 
-C. Lorenz et al., <em>Best Practises für den sicheren Betrieb von Software-definierten Netzen</em> (<a href="/assets/docs/bp-sdnsec.pdf">PDF</a>)
+SarDiNe-Konsortium, <em>Best Practises für den sicheren Betrieb von Software-definierten Netzen</em> (<a href="/assets/docs/bp-sdnsec.pdf">PDF</a>)
 <p class="post-meta">22.06.2017</p><br>
 
 N. Gray, <em>Using SDN and NFV to Realize a Scalable and Resilient Omni-Present Firewall</em> <a href="https://www.blackhat.com/html/webcast/10192017-using-sdn-and-nfv.html">Black Hat Webcast</a>
@@ -60,6 +63,9 @@ SarDiNe-Konsortium, <em>SDN/NFV-enabled Security Architecture for Enterprise Net
 
 N. Gray et al., <em>FlowFuzz - A Framework for Fuzzing OpenFlow-Enabled Software and Hardware Switches.</em> <a href="https://www.blackhat.com/us-17/"> Black Hat USA</a>
 <p class="post-meta">22.06.2017</p><br>
+
+C. Lorenz et al., Beitrag <em> Erkennung und Mitigation von DoS-Angriffen gegen die Datenschicht in Software Defined Networks</em>, <a href="https://www.bsi.bund.de/DE/Service/Aktuell/Veranstaltungen/IT-Sicherheitskongress/IT-Sicherheitskongress_node.html">15. Deutscher IT-Sicherheitskongress</a> des BSI.
+<p class="post-meta">16.-18.05.2017</p><br>
 
 SarDiNe-Konsortium, Poster bei der <em>Nationalen Konferenz IT-Sicherheitsforschung: Selbstbestimmt und sicher in der digitalen Welt</em> des BMBF (<a href="https://www.forschung-it-sicherheit-kommunikationssysteme.de/it-sicherheitskonferenz">Link</a>)
 <p class="post-meta">14.-16.02.2017</p><br>

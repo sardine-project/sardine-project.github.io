@@ -13,6 +13,9 @@ C. Lorenz, D. Hock, J. Scherer, R. Durner, W. Kellerer, S. Gebert, N. Gray, T. Z
 
 <h1>Konferenzen</h1>
 
+Nicholas Gray, Stanislav Lange, Thomas Zinner, Benedikt Pfaff, David Hock, <em>Evaluation of a Distributed Control Plane for Managing Heterogeneous SDN-enabled and Legacy Networks</em>. <a href="http://www.icce-2018.org/">IEEE ICCE</a>, Hue, Vietnam, 2018.
+<p class="post-meta">18.-20.07.2018</p><br>
+
 C. Sieber, R. Durner, M. Ehm, P. Sharma, W. Kellerer, <em>Towards Optimal Adaptation of NFV Packet Processing to Modern CPU Memory Architectures</em>. <a href="https://conferences2.sigcomm.org/co-next/2017/#!/canworkshop">ACM CoNext 2017 - CAN</a>, Seoul/Incheon, Südkorea, 2017.
 <p class="post-meta">12.12.2017</p><br>
 

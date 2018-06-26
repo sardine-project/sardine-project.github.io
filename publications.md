@@ -49,7 +49,7 @@ R. Durner, A. Blenk, W. Kellerer, <em>Performance Study of Dynamic QoS Managemen
 
 <h1>Vermischtes</h1>
 
-C. Lorenz et al., <em>Best Practises für den sicheren Betrieb von Software-definierten Netzen</em> (<a href="/assets/docs/bp-sdnsec.pdf">PDF</a>)
+SarDiNe-Konsortium, <em>Best Practises für den sicheren Betrieb von Software-definierten Netzen</em> (<a href="/assets/docs/bp-sdnsec.pdf">PDF</a>)
 <p class="post-meta">22.06.2017</p><br>
 
 N. Gray, <em>Using SDN and NFV to Realize a Scalable and Resilient Omni-Present Firewall</em> <a href="https://www.blackhat.com/html/webcast/10192017-using-sdn-and-nfv.html">Black Hat Webcast</a>

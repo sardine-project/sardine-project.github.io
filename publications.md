@@ -19,6 +19,11 @@ Nicholas Gray, Stanislav Lange, Thomas Zinner, Benedikt Pfaff, David Hock, <em>E
 C. Sieber, R. Durner, M. Ehm, P. Sharma, W. Kellerer, <em>Towards Optimal Adaptation of NFV Packet Processing to Modern CPU Memory Architectures</em>. <a href="https://conferences2.sigcomm.org/co-next/2017/#!/canworkshop">ACM CoNext 2017 - CAN</a>, Seoul/Incheon, Südkorea, 2017.
 <p class="post-meta">12.12.2017</p><br>
 
+
+B. Pfaff, J. Scherer, D. Hock, N. Gray, T. Zinner, P. Tran-Gia, R. Durner, W. Kellerer, C. Lorenz, <em>SDN/NFV-enabled Security Architecture for Fine-grained Policy Enforcement and Threat Mitigation for Enterprise Networks</em>. <a href="https://conferences.sigcomm.org/sigcomm/2017/">ACM SIGCOMM</a>, Los Angeles, USA, 2017.
+<p class="post-meta">23.08.2017</p><br>
+
+
 N. Gray, T. Zinner, P. Tran-Gia, <em>Enhancing SDN Security by Device Fingerprinting</em>. <a href="http://im2017.ieee-im.org/"> International Symposium on Integrated Network Management</a>, Lissabon, Portugal, 2017.
 <p class="post-meta">22.06.2017</p><br>
 

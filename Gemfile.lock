@@ -67,7 +67,7 @@ GEM
       jekyll-theme-time-machine (= 0.1.1)
       jekyll-titles-from-headings (= 0.5.3)
       jemoji (= 0.11.1)
-      kramdown (= 2.3.0)
+      kramdown (>= 2.3.1)
       kramdown-parser-gfm (= 1.1.0)
       liquid (= 4.0.3)
       mercenary (~> 0.3)
@@ -247,6 +247,7 @@ GEM
     unf_ext (0.0.7.7)
     unicode-display_width (1.7.0)
     zeitwerk (2.4.0)
+
 PLATFORMS
   ruby
 
